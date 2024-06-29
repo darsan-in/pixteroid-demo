@@ -1,0 +1,10 @@
+{
+  "name": "pixteroid-demo",
+  "repository": "https://github.com/iamspdarsan/pixteroid-demo.git",
+  "author": "DARSAN <iamspdarsan@gmail.com>",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "glob": "10.4.2",
+    "pixteroid": "1.0.1"
+  }
+}
