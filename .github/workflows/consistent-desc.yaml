@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd .github
+          mkdir -p temp && cd temp
           npm init -y
           npm install node-html-parser marked @octokit/rest -S
 
