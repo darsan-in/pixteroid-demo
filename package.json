@@ -7,12 +7,23 @@
     "glob": "10.4.2",
     "pixteroid": "1.0.1"
   },
-  "homepage": "https://darsan.in",
-  "description": "[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.] ",
+  "homepage": "https://www.npmjs.com/package/pixteroid",
+  "description": "This repository demonstrates the Pixteroid image scaling API available in Node.js, using the NCNN framework, which is optimized for mobile platforms. It utilizes Real-ESRGAN and ESRGAN model weights to upscale images with three different levels of detail and size.",
   "keywords": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "image-scaling",
+    "node.js",
+    "ncnn-framework",
+    "image-upscaling",
+    "real-esrgan",
+    "esrgan",
+    "mobile-optimization",
+    "neural-network-inference",
+    "pixteroid-demo",
+    "high-performance",
+    "image-processing",
+    "open-source",
+    "api-integration",
+    "node-js-library",
+    "mobile-platforms"
   ]
 }
